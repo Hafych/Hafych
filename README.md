@@ -14,13 +14,27 @@
 
   <br>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 25px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&label=Python&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white&style=for-the-badge&label=Mathematica&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white&style=for-the-badge&label=Spyder&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&label=VS%20Code&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&label=Git&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?logo=tex&logoColor=white&style=for-the-badge&label=LaTeX&labelColor=0D1117" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 25px 0; opacity: 0.9;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+       alt="Python" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+       alt="PostgreSQL" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+       alt="MongoDB" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+       alt="Docker" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+       alt="VS Code" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+       alt="Git" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" 
+       alt="LaTeX" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg" 
+       alt="Mathematica" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" 
+       alt="Windows 11" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" 
+       alt="Django" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   </div>
 
   <br>
@@ -47,3 +61,5 @@
   </p>
 
 </div>
+
+
