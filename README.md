@@ -33,6 +33,8 @@
        alt="LaTeX" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg" 
        alt="Mathematica" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" 
+       alt="linux" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" 
        alt="Windows 11" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" 
