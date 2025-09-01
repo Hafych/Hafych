@@ -4,7 +4,6 @@
        width="200" 
        style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
 
-  <!-- Name and title with improved typography -->
   <h1 style="color: #C9D1D9; font-size: 2.5em; margin-bottom: 10px;">Nazarii Hafych</h1>
   <p style="font-size: 1.2em; color: #C9D1D9; margin-bottom: 5px;">
     Theoretical Physicist • Computational Scientist • Python Developer
@@ -15,7 +14,6 @@
 
   <br>
 
-  <!-- Scientific & Tech Stack (Updated Badges with correct logos) -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 25px 0;">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&label=Python&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white&style=for-the-badge&label=Mathematica&labelColor=0D1117" />
@@ -27,7 +25,6 @@
 
   <br>
 
-  <!-- Telegram Contact with hover effect -->
   <div style="margin: 25px 0;">
     <a href="https://t.me/science_code" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&label=Reach%20me&labelColor=0D1117" 
@@ -39,33 +36,14 @@
 
   <hr style="width: 80%; border: 1px solid #30363D; margin: 35px 0;" />
 
-  <!-- Project CTA with gradient background -->
   <div style="margin-top: 35px; padding: 20px; background: linear-gradient(135deg, #161B22, #21262D); border-radius: 16px; max-width: 700px; border: 1px solid #30363D; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <p style="color: #C9D1D9; font-size: 1.1em; text-align: center;">
       🔬 Exploring the intersection of <strong>theoretical physics</strong>, <strong>mathematical modeling</strong>, and <strong>computational methods</strong>.
     </p>
   </div>
 
-  <!-- Quote with elegant styling -->
   <p style="margin-top: 30px; font-style: italic; color: #8B949E; max-width: 650px; font-size: 1em; text-align: center;">
     “The universe is written in the language of mathematics — and code is its modern dialect.”
   </p>
 
 </div>
-
-
-
-<!--
-**Hafych/Hafych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
