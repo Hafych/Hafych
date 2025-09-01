@@ -1,6 +1,5 @@
 <div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #0D1117; border-radius: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <!-- Animated circular avatar with shadow -->
-  <img src="https://wp.gorky.media/wp-content/uploads/2019/02/tenor-2.gif" 
+  <img src="https://i.pinimg.com/1200x/24/6a/e7/246ae7d397c73796dd708368883633e4.jpg" 
        width="200" 
        style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
 
