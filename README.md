@@ -2,6 +2,17 @@
   <img src="https://i.pinimg.com/1200x/24/6a/e7/246ae7d397c73796dd708368883633e4.jpg" 
        width="200" 
        style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
+  <img src="https://i.pinimg.com/1200x/87/82/b6/8782b64a05cdfa98de48013c3ab0a0e0.jpg" 
+       width="203" 
+       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
+  <img src="https://i.pinimg.com/1200x/dc/3b/8f/dc3b8fb37164a9b05e4cd28d49434c11.jpg" 
+       width="201" 
+       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
+  <img src="https://i.pinimg.com/736x/40/40/ec/4040ec9e83358760dd5035a38a6995d1.jpg" 
+       width="228" 
+       style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
+
+  
 
   <h1 style="color: #C9D1D9; font-size: 2.5em; margin-bottom: 10px;">Nazarii Hafych</h1>
   <p style="font-size: 1.2em; color: #C9D1D9; margin-bottom: 5px;">
