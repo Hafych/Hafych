@@ -23,6 +23,8 @@
        alt="MongoDB" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
        alt="Docker" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" 
+       alt="Spyder" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
        alt="VS Code" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
@@ -33,8 +35,12 @@
        alt="Mathematica" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" 
        alt="Windows 11" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" 
        alt="Django" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-line.svg" 
+       alt="Numpy" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-plain.svg" 
+       alt="Matplotlib" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   </div>
 
   <br>
