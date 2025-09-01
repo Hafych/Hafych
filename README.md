@@ -49,11 +49,15 @@
 
   <div style="margin: 25px 0;">
     <a href="https://t.me/science_code" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&label=Reach%20me&labelColor=0D1117" 
+      <img src="https://img.shields.io/badge/_Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" 
            style="transition: transform 0.3s;" 
            onmouseover="this.style.transform='scale(1.05)';" 
            onmouseout="this.style.transform='scale(1)';" />
-    </a>
+    <a href="mailto:nazariihafych@gmail.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  </a>
+    
   </div>
 
   <hr style="width: 80%; border: 1px solid #30363D; margin: 35px 0;" />
