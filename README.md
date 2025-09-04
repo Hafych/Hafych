@@ -12,8 +12,6 @@
        width="228" 
        style="border-radius: 50%; border: 4px solid #58A6FF; margin: 30px 0; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.5);" />
 
-  
-
   <h1 style="color: #C9D1D9; font-size: 2.5em; margin-bottom: 10px;">Nazarii Hafych</h1>
   <p style="font-size: 1.2em; color: #C9D1D9; margin-bottom: 5px;">
     Theoretical Physicist • Computational Scientist • Python Developer
@@ -54,9 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-plain.svg" 
        alt="Matplotlib" width="50" height="50" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));" />
   </div>
-
   <br>
-
   <div style="margin: 25px 0;">
     <a href="https://t.me/science_code" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/_Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" 
@@ -67,9 +63,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   </a>
-    
   </div>
-
   <hr style="width: 80%; border: 1px solid #30363D; margin: 35px 0;" />
 
   <div style="margin-top: 35px; padding: 20px; background: linear-gradient(135deg, #161B22, #21262D); border-radius: 16px; max-width: 700px; border: 1px solid #30363D; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
