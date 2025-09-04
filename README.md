@@ -66,12 +66,6 @@
   </div>
   <hr style="width: 80%; border: 1px solid #30363D; margin: 35px 0;" />
 
-  <div style="margin-top: 35px; padding: 20px; background: linear-gradient(135deg, #161B22, #21262D); border-radius: 16px; max-width: 700px; border: 1px solid #30363D; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <p style="color: #C9D1D9; font-size: 1.1em; text-align: center;">
-      🔬 Exploring the intersection of <strong>theoretical physics</strong>, <strong>mathematical modeling</strong>, and <strong>computational methods</strong>.
-    </p>
-  </div>
-
   <p style="margin-top: 30px; font-style: italic; color: #8B949E; max-width: 650px; font-size: 1em; text-align: center;">
     “The universe is written in the language of mathematics — and code is its modern dialect.”
   </p>
